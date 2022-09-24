@@ -1,2 +1,2 @@
 # pricing-card-frontend-mentor-challenge
-Creating a price card using HTML and CSS.
+Implementing a price card using HTML and CSS.
